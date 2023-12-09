@@ -12,3 +12,4 @@
 <h3 align="center">Как запустить кривую Безье.</h3>
 <p>Для запуска кривой нужно дополнительно <b>установить библиотеку <a href="https://pypi.org/project/pygame/">"pygame"</a></b> и естественно нужен сам <b><a href="https://www.python.org/">python</a></b>. После того как установили библиотеку запускаем любой скрипт, либо через <b>IDE</b>, либо через <b>консоль</b>.</p>
 <p>Чтобы запустить через консоль нужно открыть папку с python файлом в <b>cmd</b> и прописать следующее <b>"python 'название файла в формате .py' "</b> после чего нажать <b>ENTER</b>.</p>
+<p>Есть ещё способ запуска <a href="https://github.com/Verch12/Bezier-curve/blob/master/bezier_curve_2.py">"bezier_curve_2.py"</a></b>. В папке <b>dist</b> находится <a href="https://github.com/Verch12/Bezier-curve/tree/master/dist">"bezier_curve_2.exe"</a></b> просто запускаем всё.</p>
